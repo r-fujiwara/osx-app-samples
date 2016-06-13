@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2DFE2C3-41BA-4072-94D9-0C5B2A703EF8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HubEvent</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FAD0AB75F6890E5D0A27BDD893C959E067EBD8AB</key>
+		<string>github.com:sammyd/IntroToOSX.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>00_geting_started/HubEvent/HubEvent.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FAD0AB75F6890E5D0A27BDD893C959E067EBD8AB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:sammyd/IntroToOSX.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FAD0AB75F6890E5D0A27BDD893C959E067EBD8AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FAD0AB75F6890E5D0A27BDD893C959E067EBD8AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>intro</string>
+		</dict>
+	</array>
+</dict>
+</plist>

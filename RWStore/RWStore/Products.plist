@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Audience</key>
+		<string>This book is for intermediate to advanced developers, who already know the basics of iOS and Swift development but want to learn the new APIs introduced in iOS 8.
+If you’re a complete beginner to iOS and Swift development, you can follow along with this book as well, because the tutorials are always in a step-by-step process. However, there may be some missing gaps in your knowledge so you might want to go through the iOS Apprentice Series first.</string>
+		<key>Imagename</key>
+		<string>ios8</string>
+		<key>Description</key>
+		<string>Learn about the new APIs in iOS 8 such as Adaptive UI, App Extensions, and Cloud Kit!
+
+Includes 30 chapters and over 750 pages (PDF format). Book in Swift, sample projects in both Swift + Obj-C.</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>iOS 8 by Tutorials</string>
+	</dict>
+	<dict>
+		<key>Audience</key>
+		<string>The iOS Apprentice is a series of epic-length tutorials for beginners where you’ll learn how to build 4 complete apps from scratch.
+Each new app will be a little more advanced than the one before, and together they cover everything you need to know to make your own apps. By the end of the series you’ll be experienced enough to turn your ideas into real apps that you can sell on the App Store.
+These tutorials have easy to follow step-by-step instructions, and consist of more than 900 pages and 500 illustrations! You also get full source code, image files, and other resources you can re-use for your own projects.</string>
+		<key>Imagename</key>
+		<string>apprentice</string>
+		<key>Description</key>
+		<string>Learn how to make iPhone and iPad apps from the ground up, with a series of epic-length tutorials for beginners!</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>iOS Apprentice</string>
+	</dict>
+	<dict>
+		<key>Audience</key>
+		<string>This book is for intermediate iOS developers who already know the basics of iOS and Swift development but want to learn how to use WatchKit to develop hybrid apps, Glances, and notifications for the Apple Watch.
+If you’re a complete beginner to iOS and Swift development, you can follow along with this book as well because the tutorials are always in a step-by-step format. However, there may be some gaps in your knowledge, so you might want to go through the iOS Apprentice Series first.</string>
+		<key>Imagename</key>
+		<string>watchkit</string>
+		<key>Description</key>
+		<string>Get a head start making apps for the Apple Watch, using WatchKit and Swift.
+
+Learn about WatchKit UI controls and layout, Glances, notifications, deep linking with Handoff, and more!</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>WatchKit by Tutorials</string>
+	</dict>
+	<dict>
+		<key>Audience</key>
+		<string>This book is for iOS developers who already know the basics of iOS and Swift, and want to dive deep into animations.
+If you’re a complete beginner to iOS, we suggest you first read through The iOS Apprentice first. That will give you a solid foundation of building iOS apps with Swift from the ground up.
+If you know the basics of iOS development but are new to Swift, we suggest you read Swift by Tutorials first, which uses a similar hands-on approach and takes you on a comprehensive tour through the Swift language, but is more oriented toward experienced Objective-C developers.</string>
+		<key>Imagename</key>
+		<string>animations</string>
+		<key>Description</key>
+		<string>Learn how to make iOS Animations in Swift through a series of hands-on tutorials and challenges.
+
+Start with basic view animations and move all the way to layer animations, animating constraints, view controller transitions, and more!</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>iOS Animations by Tutorials</string>
+	</dict>
+	<dict>
+		<key>Audience</key>
+		<string>This book is for intermediate to advanced developers, who already know the basics of programming but want to learn how to use the Swift programming language.
+You do not need any prior Objective-C or iOS experience for this book, but if you do have experience we’ll make the transition even easier for you by drawing some parallels to what you already know.
+If you have no programming experience at all, you would be better off reading the iOS Apprentice Series instead, which is for complete beginners to programming.</string>
+		<key>Imagename</key>
+		<string>swift</string>
+		<key>Description</key>
+		<string>Learn Apple’s brand new programming language, Swift, the quick and easy way: via hands-on tutorials!
+
+Through a series of real-world, practical examples you will bring your Swift knowledge from beginner to master.
+
+Start with with the basics like classes, enums, and structs and move all the way to advanced topics like functional programming, Swift and Cocoa integration, and more!</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>Swift by Tutorials</string>
+	</dict>
+	<dict>
+		<key>Audience</key>
+		<string>This book is for beginner to advanced iOS developers. Whether you are a complete beginner to making iOS games, or an advanced iOS developer looking to learn about Sprite Kit, you will learn a lot from this book!
+This book does require some basic knowledge of Swift. If you do not know Objective-C you can still follow along with the book because the tutorials are always in a step-by-step process, but there may be some missing gaps in your knowledge. You might want to go through the iOS Apprentice Series before you go through this book.</string>
+		<key>Imagename</key>
+		<string>games</string>
+		<key>Description</key>
+		<string>Learn how to make your own iOS games using Swift and Apple’s game framework, Sprite Kit.
+
+In this book (PDF format), you will make over 5 complete and polished mini-games, from an action game to a puzzle game to a racing game!
+
+Covers both basic and advanced material in a fun and step-by-step manner. You will love this book!</string>
+		<key>Price</key>
+		<integer>54</integer>
+		<key>Name</key>
+		<string>iOS Games by Tutorials Second Edition</string>
+	</dict>
+</array>
+</plist>
