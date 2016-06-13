@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="6206.8" systemVersion="13E28" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="6206.8"/>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="9531"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="NSApplication">
@@ -649,7 +650,7 @@
         <window title="PomodoroTimer" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" restorable="NO" hasShadow="NO" showsToolbarButton="NO" animationBehavior="default" id="QvC-M9-y7g" userLabel="PomodoroTimerWindow" customClass="PomodoroTimerWindow" customModule="PomodoroTimer" customModuleProvider="target">
             <windowPositionMask key="initialPositionMask" leftStrut="YES" topStrut="YES"/>
             <rect key="contentRect" x="0.0" y="800" width="1650" height="22"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="1650" height="1028"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1920" height="1177"/>
             <view key="contentView" id="EiT-Mj-1SZ">
                 <rect key="frame" x="0.0" y="0.0" width="1650" height="22"/>
                 <autoresizingMask key="autoresizingMask"/>
